@@ -2,11 +2,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<!-- interesting -->
 	<groupId>com.mcnz.rps</groupId>
-	<artifactId>roshambo</artifactId>
+	<artifactId>AWS_PPT_DEMO</artifactId>
 	<version>AWS_PPT_DEMO</version>
 	<packaging>jar</packaging>
 
-	<name>roshambo</name>
+	<name>AWS_PPT_DEMO</name>
 
 
 	<dependencies>
